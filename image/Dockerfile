@@ -1,5 +1,7 @@
 FROM wnameless/oracle-xe-11g
 
+MAINTAINER Dieter Van Peer <dieter@vanpeerdevelopment.be>
+
 ENV ORACLE_HOME=/u01/app/oracle/product/11.2.0/xe
 ENV ORACLE_SID=XE
 ENV SQLPLUS=$ORACLE_HOME/bin/sqlplus
