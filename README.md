@@ -1,2 +1,4 @@
 # docker-oracle-xe-11g
+[![Docker Build Status](https://img.shields.io/docker/build/vanpeerdevelopment/oracle-xe-11g.svg)](https://hub.docker.com/r/vanpeerdevelopment/oracle-xe-11g/builds/) [![Docker Automated build](https://img.shields.io/docker/automated/vanpeerdevelopment/oracle-xe-11g.svg)](https://hub.docker.com/r/vanpeerdevelopment/oracle-xe-11g/builds/) [![Docker Pulls](https://img.shields.io/docker/pulls/vanpeerdevelopment/oracle-xe-11g.svg)](https://hub.docker.com/r/vanpeerdevelopment/oracle-xe-11g/) [![Docker Stars](https://img.shields.io/docker/stars/vanpeerdevelopment/oracle-xe-11g.svg)](https://hub.docker.com/r/vanpeerdevelopment/oracle-xe-11g/builds/) 
+
 Docker image for Oracle Database Express Edition 11g Release 2 
